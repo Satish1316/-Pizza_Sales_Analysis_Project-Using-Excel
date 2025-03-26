@@ -13,10 +13,8 @@ The goal of the project is to provide key insights and recommendations that the 
 - Generate actionable insights that go beyond the predefined metric list and dashboard mockup.
 
 ### 3. Import & Explore Data
-#### A. Importing Data into Power BI
-The pizza sales data was imported into Power BI. The data consists of both fact and dimension tables that include sales transactions, pizza details, and customer information.
 
-#### B. Using SQL to Explore Data
+#### Using SQL to Explore Data
 Exploring the data before diving into analysis is key to understanding customer behavior, pizza preferences, and sales patterns.
 
 #### Dataset Overview:
